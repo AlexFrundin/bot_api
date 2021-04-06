@@ -1,0 +1,5 @@
+.vscode
+*.code-workspace
+*.py[doc]
+*.back
+__pycache__
